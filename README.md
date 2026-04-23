@@ -1,6 +1,6 @@
 # 💸 Finly — Smart Budget Planner & Debt Tracker
 
-![Finly Preview](Review.png)
+![Finly Preview](Finly-mockup.png)
 
 > **Finly** adalah aplikasi pengelolaan keuangan berbasis Progressive Web App (PWA) yang proaktif, pintar, dan siap digunakan secara offline. Didesain khusus untuk membantu Anda melacak arus kas harian, mengelola target tabungan, dan memantau status utang-piutang dalam satu *dashboard* yang modern dan responsif.
 
